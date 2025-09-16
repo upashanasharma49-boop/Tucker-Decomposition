@@ -1,9 +1,9 @@
 # Tucker-Decomposition
 This repository contains my work in Tucker Decomposition.
 ## Table of Contents
-- [About] (#about)
-- [Methodology] (#methodology)
-- [Features] (#features)
+- [About]
+- [Methodology]
+- [Features]
 ## About
 Tucker decomposition is a fundamental method in multilinear algebra for analyzing higher-order tensors. It generalizes the
 singular value decomposition (SVD) from matrices to tensors by expressing a given tensor as a core tensor multiplied by a set
